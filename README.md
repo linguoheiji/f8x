@@ -22,6 +22,8 @@
 
 修复了灯塔
 
+目前只修复了这个链接的：wget : wget -O heiji https://heiji.luckyo.me/
+
 English | [简体中文](README.zh-cn.md)
 
 ---
