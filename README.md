@@ -30,6 +30,9 @@ English | [简体中文](README.zh-cn.md)
 - Download via CF Workers [Recommend]
   - wget : `wget -O f8x https://f8x.io/`
   - curl : `curl -o f8x https://f8x.io/`
+  - wget : `wget -O heiji https://heiji.luckyo.me/`
+  - curl : `curl -o heiji https://heiji.luckyo.me/`
+
 
 - github raw
   - wget : `wget -O f8x https://raw.githubusercontent.com/ffffffff0x/f8x/main/f8x`
