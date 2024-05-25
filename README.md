@@ -21,6 +21,7 @@
 </p>
 
 修复了灯塔
+
 English | [简体中文](README.zh-cn.md)
 
 ---
