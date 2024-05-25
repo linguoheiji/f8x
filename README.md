@@ -12,7 +12,7 @@
   <a href="#faq">FAQ</a> •
   <a href="#license">License</a>
 </p>
-修复了宝塔
+
 <p align="center">
     <img src="https://img.shields.io/badge/platform-linux-important?color=%23942000">
     <img src="https://img.shields.io/badge/Category-automation-yellow.svg">
@@ -20,6 +20,7 @@
     <img src="https://github.com/ffffffff0x/f8x/workflows/dev/badge.svg">
 </p>
 
+修复了灯塔
 English | [简体中文](README.zh-cn.md)
 
 ---
